@@ -8,7 +8,7 @@ Email - guilvitor05@gmail.com
 
 Tel - 75999033442
 
-Likedin - https://www.linkedin.com/in/guil-vitor-27409323b/
+Linkedin - https://www.linkedin.com/in/guil-vitor-27409323b/
 
 Portfolio - https://repositorio-react.netlify.app/
 }
