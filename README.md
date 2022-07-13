@@ -4,7 +4,9 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me {
 Email - guilvitor05@gmail.com
+
 Tel - 75999033442
+
 Likedin - https://www.linkedin.com/in/guil-vitor-27409323b/
 }
 
