@@ -10,7 +10,7 @@ Tel - 75999033442
 
 Linkedin - https://www.linkedin.com/in/guil-vitor-27409323b/
 
-Portfolio - https://repositorio-react.netlify.app/
+Portfolio - https://poortfolio17.netlify.app/
 
 }
 
