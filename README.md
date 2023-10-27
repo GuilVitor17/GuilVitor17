@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GuilVitor17 tenho 20 anos, sou de Mutuipe-BA, apaixonado por tecnologia.
+- 👋 Hi, I’m @GuilVitor17 tenho 21 anos, sou de Mutuipe-BA, apaixonado por tecnologia.
 - 👀 I’m interested in desenvolvimento web full stack.
 - 🌱 I’m currently learning desenvolvimento web full stack.
 - 💞️ I’m looking to collaborate on em uma empresa que mim ajude a evoluir não sor profissionalmente, mas tambem como pessoa.
@@ -10,7 +10,7 @@ Tel - 75999033442
 
 Linkedin - https://www.linkedin.com/in/guil-vitor-27409323b/
 
-Portfolio - https://poortfolio17.netlify.app/
+Portfolio - https://shopewebset.com.br/
 
 }
 
