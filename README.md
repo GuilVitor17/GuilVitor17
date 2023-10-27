@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @GuilVitor17 tenho 21 anos, sou de Mutuipe-BA, apaixonado por tecnologia.
-- 👀 I’m interested in desenvolvimento web full stack.
-- 🌱 I’m currently learning desenvolvimento web full stack.
-- 💞️ I’m looking to collaborate on em uma empresa que mim ajude a evoluir não sor profissionalmente, mas tambem como pessoa.
-- 📫 How to reach me {
+- 👋 @GuilVitor17 tenho 21 anos, sou de Mutuipe-BA, apaixonado por tecnologia.
+- 👀 Desenvolvimento web full stack.
+- 📫 me {
 - 
 Email - guilvitor05@gmail.com
 
