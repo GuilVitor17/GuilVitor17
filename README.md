@@ -1,18 +1,11 @@
 
-👋 Olá, sou Guil!
+Olá! 👋 Sou Vitor, desenvolvedor web Full-Stack apaixonado por tecnologia, com 22 anos e 3 anos de experiência profissional.
 
-🎓 Tenho 22 anos e 2 anos de experiência como desenvolvedor. Sou apaixonado por tecnologia e estou sempre buscando aprender e evoluir.
+💻 Tenho habilidades em HTML, CSS, JavaScript, TypeScript, React.js, Next.js, Node.js e MongoDB, que aplico para criar soluções eficientes e inovadoras. A cada projeto, busco superar desafios, aprimorar minhas habilidades e aprender novas tecnologias.
 
-💻 Tenho sólido conhecimento em TypeScript, JavaScript, React e Node.js, com foco especializado em desenvolvimento front-end. Ao longo dos meus anos de trabalho, contribuí para diversos projetos, desenvolvendo interfaces de usuário interativas e responsivas, bem como implementando lógica de negócios eficiente no lado do cliente.
+🌱 Estou sempre em busca de novas oportunidades de crescimento no desenvolvimento web e gosto de colaborar em projetos que me permitam aplicar meu conhecimento ao máximo.
 
-✨ Estou constantemente buscando novos desafios e oportunidades para expandir meu conjunto de habilidades e colaborar em projetos inovadores.
-
-🌱 Além disso, estou sempre aberto a aprender novas tecnologias e a compartilhar conhecimento com a comunidade de desenvolvedores.
-
-📫 Você pode entrar em contato comigo através do meu E-mail guilvitor17@gmail.com.
-
-
-
+Vamos nos conectar e explorar possibilidades juntos?
 
 Projetos
 - Fel plataforma : https://felplataforma.vercel.app/
