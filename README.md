@@ -85,9 +85,6 @@ Já desenvolvi **projetos reais com usuários reais**, sempre priorizando:
   <a href="SEU_LINK_DIVULGAVALE">
     <img src="https://img.shields.io/badge/🌐%20Ver%20Projeto-black?style=flat-square" />
   </a>
-  <a href="SEU_LINK_GITHUB_DIVULGAVALE">
-    <img src="https://img.shields.io/badge/💻%20Código-181717?style=flat-square&logo=github" />
-  </a>
 </p>
 
 Sistema Full Stack com autenticação, painel administrativo e deploy em produção.
@@ -102,9 +99,6 @@ Sistema Full Stack com autenticação, painel administrativo e deploy em produç
   <a href="SEU_LINK_PLANNEJAR">
     <img src="https://img.shields.io/badge/🌐%20Ver%20Projeto-black?style=flat-square" />
   </a>
-  <a href="SEU_LINK_GITHUB_PLANNEJAR">
-    <img src="https://img.shields.io/badge/💻%20Código-181717?style=flat-square&logo=github" />
-  </a>
 </p>
 
 Aplicação com integração de IA voltada para experiência do usuário.
@@ -118,9 +112,6 @@ Aplicação com integração de IA voltada para experiência do usuário.
   <img src="https://img.shields.io/badge/Foco-Usabilidade-yellow?style=flat-square" />
   <a href="SEU_LINK_AVALIADOR">
     <img src="https://img.shields.io/badge/🌐%20Ver%20Projeto-black?style=flat-square" />
-  </a>
-  <a href="SEU_LINK_GITHUB_AVALIADOR">
-    <img src="https://img.shields.io/badge/💻%20Código-181717?style=flat-square&logo=github" />
   </a>
 </p>
 
