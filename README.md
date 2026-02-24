@@ -1,60 +1,84 @@
 
-<h1 align="center">🧠 Guil Vitor</h1>
-
+<!-- HEADER ANIMADO -->
 <p align="center">
-  Desenvolvedor Frontend & Full Stack • React • Next.js • TypeScript
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c5cff,100:2dd4bf&height=220&section=header&text=Guil%20Vitor&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
+<!-- TYPING EFFECT -->
 <p align="center">
-  <a href="https://portfolio-guil.vercel.app/">🌐 Portfólio</a> •
-  <a href="https://www.linkedin.com/in/guil-vitor-27409323b/">LinkedIn</a>
+  <img src="https://readme-typing-svg.herokuapp.com?color=7c5cff&size=28&center=true&vCenter=true&width=800&lines=Frontend+Developer;React+%2B+Next.js+Specialist;Building+Real+World+Applications;Full+Stack+Capable;3+Years+Experience;Always+Evolving" />
 </p>
 
 ---
 
-## 🚀 Sobre mim
+## 🧠 About Me
 
-Desenvolvedor com **3 anos de experiência profissional**, focado na construção de aplicações modernas, performáticas e em produção.
+Desenvolvedor Web com **3 anos de experiência profissional**, focado na construção de aplicações modernas, performáticas e escaláveis.
 
-Atuo principalmente com:
+Trabalho principalmente com:
 
 - ⚡ React & Next.js
+- 🧠 TypeScript
 - 🔐 APIs REST e autenticação
-- 🧠 Integrações com IA
-- 📦 Deploy e aplicações reais
+- 🚀 Deploy e aplicações em produção
+- 📦 Node.js & MongoDB
 
-Tenho experiência em projetos que já estão em produção e utilizados por usuários reais.
-
----
-
-## 🛠 Stack Principal
-
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb" />
-</p>
+Tenho experiência criando produtos reais, com usuários reais e foco em performance, experiência e resultado.
 
 ---
 
-## 🔥 Projetos em Destaque
-
-### 🌐 DivulgaVale  
-Marketplace Full Stack com autenticação, painel admin e deploy em produção.
-
-### 🤖 Plannejar  
-Integrações com IA focadas em melhorar experiência do usuário.
-
-### 🎨 Portfolio  
-Experiência imersiva com UI moderna e animações.
-
----
-
-## 📊 Estatísticas
+## 🚀 Portfólio
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GuilVitor17&show_icons=true&theme=tokyonight"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilVitor17&layout=compact&theme=tokyonight"/>
+  <a href="https://portfolio-guil.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐%20Acessar%20Portfólio-7c5cff?style=for-the-badge" />
+  </a>
 </p>
+
+---
+
+## ⚡ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,mongodb,js,html,css,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=GuilVitor17&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=GuilVitor17&theme=tokyonight&hide_border=true&background=0d1117"/>
+</p>
+
+---
+
+## 🌌 Contribution Graph
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GuilVitor17&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 Featured Projects
+
+### 🌐 DivulgaVale  
+Marketplace Full Stack com autenticação, painel administrativo e deploy em produção.
+
+### 🤖 Plannejar  
+Sistema com integração de IA focado em melhorar experiência do usuário.
+
+### 📊 Avaliador Digital  
+Aplicação moderna para análise e organização de dados.
+
+---
+
+## 🎯 Current Focus
+
+```diff
++ Evoluindo para nível pleno/sênior em Frontend
++ Aprofundando arquitetura e performance em React
++ Estudando padrões avançados e escalabilidade
++ Criando produtos reais com impacto
