@@ -10,7 +10,10 @@
 
 ---
 
-## 🧠 Sobre Mim
+## 🧠 Sobre Mim <br> <br>
+<br>
+
+
 
 <p>
   <img src="https://img.shields.io/badge/Nível-Júnior-2dd4bf?style=flat-square" />
@@ -38,7 +41,8 @@ Já desenvolvi **projetos reais com usuários reais**, sempre priorizando:
 
 ---
 
-## 🚀 Portfólio
+## 🚀 Portfólio <br> <br>
+<br>
 
 
 <p align="center">
@@ -49,7 +53,8 @@ Já desenvolvi **projetos reais com usuários reais**, sempre priorizando:
 
 ---
 
-## ⚡ Tecnologias
+## ⚡ Tecnologias <br> <br>
+<br>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,mongodb,js,html,css,git,github,vscode" />
@@ -57,7 +62,8 @@ Já desenvolvi **projetos reais com usuários reais**, sempre priorizando:
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Estatísticas do GitHub <br> <br>
+<br>
 
 <p align="center">
   <img 
@@ -68,8 +74,8 @@ Já desenvolvi **projetos reais com usuários reais**, sempre priorizando:
 </p>
 
 ---
-## 🔥 Projetos em Destaque
-
+## 🔥 Projetos em Destaque <br> <br>
+<br>
 
 ### 🌐 <a href="SEU_LINK_DIVULGAVALE" target="_blank">DivulgaVale</a>  
 <p>
