@@ -36,7 +36,10 @@ Já desenvolvi **projetos reais com usuários reais**, sempre priorizando:
 ✔ Boas práticas  
 ✔ Experiência do usuário  
 
+---
+
 ## 🚀 Portfólio
+
 
 <p align="center">
   <a href="https://portfolio-guil.vercel.app/">
@@ -67,35 +70,52 @@ Já desenvolvi **projetos reais com usuários reais**, sempre priorizando:
 ---
 ## 🔥 Projetos em Destaque
 
----
 
-### 🌐 DivulgaVale  
+### 🌐 <a href="SEU_LINK_DIVULGAVALE" target="_blank">DivulgaVale</a>  
 <p>
   <img src="https://img.shields.io/badge/Status-Em%20Produção-2dd4bf?style=flat-square" />
   <img src="https://img.shields.io/badge/Stack-Next.js%20%7C%20Node.js%20%7C%20MongoDB-7c5cff?style=flat-square" />
   <img src="https://img.shields.io/badge/Full%20Stack-Sim-success?style=flat-square" />
+  <a href="SEU_LINK_DIVULGAVALE">
+    <img src="https://img.shields.io/badge/🌐%20Ver%20Projeto-black?style=flat-square" />
+  </a>
+  <a href="SEU_LINK_GITHUB_DIVULGAVALE">
+    <img src="https://img.shields.io/badge/💻%20Código-181717?style=flat-square&logo=github" />
+  </a>
 </p>
 
 Sistema Full Stack com autenticação, painel administrativo e deploy em produção.
 
 ---
 
-### 🤖 Plannejar  
+### 🤖 <a href="SEU_LINK_PLANNEJAR" target="_blank">Plannejar</a>  
 <p>
   <img src="https://img.shields.io/badge/Integração-IA-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Stack-React%20%7C%20API-7c5cff?style=flat-square" />
   <img src="https://img.shields.io/badge/Foco-UX-orange?style=flat-square" />
+  <a href="SEU_LINK_PLANNEJAR">
+    <img src="https://img.shields.io/badge/🌐%20Ver%20Projeto-black?style=flat-square" />
+  </a>
+  <a href="SEU_LINK_GITHUB_PLANNEJAR">
+    <img src="https://img.shields.io/badge/💻%20Código-181717?style=flat-square&logo=github" />
+  </a>
 </p>
 
 Aplicação com integração de IA voltada para experiência do usuário.
 
 ---
 
-### 📊 Avaliador Digital  
+### 📊 <a href="SEU_LINK_AVALIADOR" target="_blank">Avaliador Digital</a>  
 <p>
   <img src="https://img.shields.io/badge/Aplicação-Web-2dd4bf?style=flat-square" />
   <img src="https://img.shields.io/badge/Stack-React%20%7C%20Next.js-7c5cff?style=flat-square" />
   <img src="https://img.shields.io/badge/Foco-Usabilidade-yellow?style=flat-square" />
+  <a href="SEU_LINK_AVALIADOR">
+    <img src="https://img.shields.io/badge/🌐%20Ver%20Projeto-black?style=flat-square" />
+  </a>
+  <a href="SEU_LINK_GITHUB_AVALIADOR">
+    <img src="https://img.shields.io/badge/💻%20Código-181717?style=flat-square&logo=github" />
+  </a>
 </p>
 
 Sistema para análise e organização de dados com foco em usabilidade.
