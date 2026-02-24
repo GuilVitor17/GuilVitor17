@@ -77,12 +77,12 @@ Já desenvolvi **projetos reais com usuários reais**, sempre priorizando:
 ## 🔥 Projetos em Destaque <br> <br>
 <br>
 
-### 🌐 <a href="SEU_LINK_DIVULGAVALE" target="_blank">DivulgaVale</a>  
+### 🌐 <a href="https://www.divulgavale.com/" target="_blank">DivulgaVale</a>  
 <p>
   <img src="https://img.shields.io/badge/Status-Em%20Produção-2dd4bf?style=flat-square" />
   <img src="https://img.shields.io/badge/Stack-Next.js%20%7C%20Node.js%20%7C%20MongoDB-7c5cff?style=flat-square" />
   <img src="https://img.shields.io/badge/Full%20Stack-Sim-success?style=flat-square" />
-  <a href="SEU_LINK_DIVULGAVALE">
+  <a href="https://www.divulgavale.com/">
     <img src="https://img.shields.io/badge/🌐%20Ver%20Projeto-black?style=flat-square" />
   </a>
 </p>
@@ -91,12 +91,12 @@ Sistema Full Stack com autenticação, painel administrativo e deploy em produç
 
 ---
 
-### 🤖 <a href="SEU_LINK_PLANNEJAR" target="_blank">Plannejar</a>  
+### 🤖 <a href="https://plannejar.com/" target="_blank">Plannejar</a>  
 <p>
   <img src="https://img.shields.io/badge/Integração-IA-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Stack-React%20%7C%20API-7c5cff?style=flat-square" />
   <img src="https://img.shields.io/badge/Foco-UX-orange?style=flat-square" />
-  <a href="SEU_LINK_PLANNEJAR">
+  <a href="https://plannejar.com/">
     <img src="https://img.shields.io/badge/🌐%20Ver%20Projeto-black?style=flat-square" />
   </a>
 </p>
@@ -105,12 +105,12 @@ Aplicação com integração de IA voltada para experiência do usuário.
 
 ---
 
-### 📊 <a href="SEU_LINK_AVALIADOR" target="_blank">Avaliador Digital</a>  
+### 📊 <a href="https://www.avaliadordigital.com.br/" target="_blank">Avaliador Digital</a>  
 <p>
   <img src="https://img.shields.io/badge/Aplicação-Web-2dd4bf?style=flat-square" />
   <img src="https://img.shields.io/badge/Stack-React%20%7C%20Next.js-7c5cff?style=flat-square" />
   <img src="https://img.shields.io/badge/Foco-Usabilidade-yellow?style=flat-square" />
-  <a href="SEU_LINK_AVALIADOR">
+  <a href="https://www.avaliadordigital.com.br/">
     <img src="https://img.shields.io/badge/🌐%20Ver%20Projeto-black?style=flat-square" />
   </a>
 </p>
