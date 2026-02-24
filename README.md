@@ -1,20 +1,60 @@
 
-Olá! 👋 Sou Vitor, desenvolvedor web Full-Stack apaixonado por tecnologia, com 22 anos e 3 anos de experiência profissional.
+<h1 align="center">🧠 Guil Vitor</h1>
 
-💻 Tenho habilidades em HTML, CSS, JavaScript, TypeScript, React.js, Next.js, Node.js e MongoDB, que aplico para criar soluções eficientes e inovadoras. A cada projeto, busco superar desafios, aprimorar minhas habilidades e aprender novas tecnologias.
+<p align="center">
+  Desenvolvedor Frontend & Full Stack • React • Next.js • TypeScript
+</p>
 
-🌱 Estou sempre em busca de novas oportunidades de crescimento no desenvolvimento web e gosto de colaborar em projetos que me permitam aplicar meu conhecimento ao máximo.
+<p align="center">
+  <a href="https://portfolio-guil.vercel.app/">🌐 Portfólio</a> •
+  <a href="https://www.linkedin.com/in/guil-vitor-27409323b/">LinkedIn</a>
+</p>
 
-Vamos nos conectar e explorar possibilidades juntos?
+---
 
-Projetos
-- Fel plataforma : https://felplataforma.vercel.app/
-- Tutu : https://tutu-app-nine.vercel.app/
-- Portfolio : https://app-guil-guilvitor17.vercel.app/
+## 🚀 Sobre mim
 
+Desenvolvedor com **3 anos de experiência profissional**, focado na construção de aplicações modernas, performáticas e em produção.
 
+Atuo principalmente com:
 
-<!---
-GuilVitor17/GuilVitor17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- ⚡ React & Next.js
+- 🔐 APIs REST e autenticação
+- 🧠 Integrações com IA
+- 📦 Deploy e aplicações reais
+
+Tenho experiência em projetos que já estão em produção e utilizados por usuários reais.
+
+---
+
+## 🛠 Stack Principal
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb" />
+</p>
+
+---
+
+## 🔥 Projetos em Destaque
+
+### 🌐 DivulgaVale  
+Marketplace Full Stack com autenticação, painel admin e deploy em produção.
+
+### 🤖 Plannejar  
+Integrações com IA focadas em melhorar experiência do usuário.
+
+### 🎨 Portfolio  
+Experiência imersiva com UI moderna e animações.
+
+---
+
+## 📊 Estatísticas
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GuilVitor17&show_icons=true&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilVitor17&layout=compact&theme=tokyonight"/>
+</p>
