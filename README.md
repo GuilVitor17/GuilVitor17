@@ -16,7 +16,6 @@
 
 
 <p>
-  <img src="https://img.shields.io/badge/Nível-Júnior-2dd4bf?style=flat-square" />
   <img src="https://img.shields.io/badge/Experiência-3%20Anos-7c5cff?style=flat-square" />
   <img src="https://img.shields.io/badge/Foco-Frontend-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Full%20Stack-Capaz-success?style=flat-square" />
@@ -72,50 +71,6 @@ Já desenvolvi **projetos reais com usuários reais**, sempre priorizando:
     src="https://github-readme-streak-stats.herokuapp.com/?user=GuilVitor17&theme=tokyonight&hide_border=true&background=0d1117&locale=pt-br"
   />
 </p>
-
----
-## 🔥 Projetos em Destaque <br> <br>
-<br>
-
-### 🌐 <a href="https://www.divulgavale.com/" target="_blank">DivulgaVale</a>  
-<p>
-  <img src="https://img.shields.io/badge/Status-Em%20Produção-2dd4bf?style=flat-square" />
-  <img src="https://img.shields.io/badge/Stack-Next.js%20%7C%20Node.js%20%7C%20MongoDB-7c5cff?style=flat-square" />
-  <img src="https://img.shields.io/badge/Full%20Stack-Sim-success?style=flat-square" />
-  <a href="https://www.divulgavale.com/">
-    <img src="https://img.shields.io/badge/🌐%20Ver%20Projeto-black?style=flat-square" />
-  </a>
-</p>
-
-Sistema Full Stack com autenticação, painel administrativo e deploy em produção.
-
----
-
-### 🤖 <a href="https://plannejar.com/" target="_blank">Plannejar</a>  
-<p>
-  <img src="https://img.shields.io/badge/Integração-IA-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Stack-React%20%7C%20API-7c5cff?style=flat-square" />
-  <img src="https://img.shields.io/badge/Foco-UX-orange?style=flat-square" />
-  <a href="https://plannejar.com/">
-    <img src="https://img.shields.io/badge/🌐%20Ver%20Projeto-black?style=flat-square" />
-  </a>
-</p>
-
-Aplicação com integração de IA voltada para experiência do usuário.
-
----
-
-### 📊 <a href="https://www.avaliadordigital.com.br/" target="_blank">Avaliador Digital</a>  
-<p>
-  <img src="https://img.shields.io/badge/Aplicação-Web-2dd4bf?style=flat-square" />
-  <img src="https://img.shields.io/badge/Stack-React%20%7C%20Next.js-7c5cff?style=flat-square" />
-  <img src="https://img.shields.io/badge/Foco-Usabilidade-yellow?style=flat-square" />
-  <a href="https://www.avaliadordigital.com.br/">
-    <img src="https://img.shields.io/badge/🌐%20Ver%20Projeto-black?style=flat-square" />
-  </a>
-</p>
-
-Sistema para análise e organização de dados com foco em usabilidade.
 
 ---
 
